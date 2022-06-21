@@ -1,0 +1,24 @@
+{
+  "name": "quote-today",
+  "version": "1.0.0",
+  "description": "simple quote app for onboarding",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-saad/quote-today.git"
+  },
+  "author": "David Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-saad/quote-today/issues"
+  },
+  "homepage": "https://github.com/david-saad/quote-today#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
